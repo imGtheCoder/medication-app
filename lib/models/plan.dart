@@ -1,5 +1,5 @@
 class Plan {
-  final String id;
+  final int id;
   final String title;
 
   Plan({
